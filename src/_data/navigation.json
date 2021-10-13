@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "Enrollment",
+      "url": "/enrollment",
+      "external": ""
+    },
+    {
       "text": "Program",
       "url": "/program",
       "external": ""
