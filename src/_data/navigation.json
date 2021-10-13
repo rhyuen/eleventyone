@@ -1,6 +1,11 @@
 {
   "items": [
     {
+      "text": "Environment",
+      "url": "environment",
+      "external": ""
+    },
+    {
       "text": "Accueil",
       "url": "/",
       "external": false
